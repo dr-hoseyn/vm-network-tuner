@@ -6,7 +6,7 @@ backlog, and enables BBR congestion control where available.
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dr-hoseyn/vm-network-tuner/main/tunnel-vm-tune.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/dr-hoseyn/vm-network-tuner/master/tunnel-vm-tune.sh | sudo bash
 ```
 
 Or clone and run manually:
